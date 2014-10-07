@@ -1,1 +1,0 @@
-This repository holds all work associated with the Nand2Tetris project
